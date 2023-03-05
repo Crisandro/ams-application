@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/ams-application/static/css/main.d5786989.css",
-    "main.js": "/ams-application/static/js/main.2e4c0a58.js",
+    "main.css": "/ams-application/static/css/main.cb68aa5e.css",
+    "main.js": "/ams-application/static/js/main.a9d8ead6.js",
     "static/media/AMS.png": "/ams-application/static/media/AMS.24c7a160430a67682c58.png",
     "index.html": "/ams-application/index.html",
-    "main.d5786989.css.map": "/ams-application/static/css/main.d5786989.css.map",
-    "main.2e4c0a58.js.map": "/ams-application/static/js/main.2e4c0a58.js.map"
+    "main.cb68aa5e.css.map": "/ams-application/static/css/main.cb68aa5e.css.map",
+    "main.a9d8ead6.js.map": "/ams-application/static/js/main.a9d8ead6.js.map"
   },
   "entrypoints": [
-    "static/css/main.d5786989.css",
-    "static/js/main.2e4c0a58.js"
+    "static/css/main.cb68aa5e.css",
+    "static/js/main.a9d8ead6.js"
   ]
 }
