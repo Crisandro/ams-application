@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ams-application/static/css/main.cb68aa5e.css",
-    "main.js": "/ams-application/static/js/main.3ef24823.js",
+    "main.js": "/ams-application/static/js/main.d7d8c69f.js",
     "static/media/AMS.png": "/ams-application/static/media/AMS.24c7a160430a67682c58.png",
     "index.html": "/ams-application/index.html",
     "main.cb68aa5e.css.map": "/ams-application/static/css/main.cb68aa5e.css.map",
-    "main.3ef24823.js.map": "/ams-application/static/js/main.3ef24823.js.map"
+    "main.d7d8c69f.js.map": "/ams-application/static/js/main.d7d8c69f.js.map"
   },
   "entrypoints": [
     "static/css/main.cb68aa5e.css",
-    "static/js/main.3ef24823.js"
+    "static/js/main.d7d8c69f.js"
   ]
 }
