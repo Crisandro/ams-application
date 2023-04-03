@@ -31,20 +31,3 @@ as for now it has:
 * mysql
 * SASS
 * CORS (For cross-origin server compatibility)
-
-## Software 
-Before proceeding, please ensure you have the following software installed on your computer.
-
-* Node
-* Yarn (optional but recommended)
-* Git command line tools
-* XAMPP (for the database, sql file for import is included here)
-* mysql (version 8.0.32 or up)
-
-### Useful links
-
-* Download Git CLT - Windows: https://git-scm.com/download/windows Mac: https://git-scm.com/download/mac
-* Download Node - https://nodejs.org/en/
-* Download Yarn CLT - https://yarnpkg.com/lang/en/docs/install/
-* Download VSCode - https://code.visualstudio.com/
-* Download XAMPP - https://www.apachefriends.org/
